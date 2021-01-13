@@ -27,7 +27,7 @@ const main = {
     },
   ],
   links: [
-    { name: 'About', link: 'blog-entries/dst/about.html' },
-    { name: 'Blog', link: 'blog-entries/dst/index.html' }
+    { name: 'About', link: 'blog/dst/about.html' },
+    { name: 'Blog', link: 'blog/dst/index.html' }
   ]
 };
