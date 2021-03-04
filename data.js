@@ -2,7 +2,7 @@ const main = {
   name: 'David O\'Dwyer',
   mail: 'davidpodwyer@gmail.com',
   img: 'images/photo.jpg',
-  role: ['Entry-Level DevOps Engineer'],
+  role: ['Early-Career Operations / DevOps Engineer'],
   // Refer https://ionicons.com/ and put the icon name inside iconName key
   connects: [
     {
